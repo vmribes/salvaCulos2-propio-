@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<config>
+<!--    <dsn>mysql:host=localhost; dbname=movieFX; user=testing2; password=testing</dsn>-->
+    <dsn>mysql:host=localhost; dbname=movieFX; user=dbuser; password=1234</dsn>
+    <rutaFotos>./uploads/</rutaFotos>
+</config>
